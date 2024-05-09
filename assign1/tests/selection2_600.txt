@@ -1,0 +1,8 @@
+Time: 0.099 seconds
+MFlops: 4354.84
+L1 DCM:27109126
+L2 DCM: 58188143
+Data prefetch misses: 35501377
+
+L1 data cache hit rate: 0.95826
+L2 data cache hit rate 0.910407
